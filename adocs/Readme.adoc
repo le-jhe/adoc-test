@@ -1,0 +1,2 @@
+=A test=
+Hello, I am an ascidoctor test
