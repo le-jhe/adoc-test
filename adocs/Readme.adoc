@@ -1,2 +1,71 @@
-=A test=
-Hello, I am an ascidoctor test
+= A test
+Doc Writer <le.jhe@free.fr>
+v0.0.1, 2016-04-07
+:toc:
+:homepage: http://www.perdu.com
+
+== OK, get started !
+
+* some
+* list
+** sub list
+	** same
+
+Not good enough for something else ?
+
+Well, I'll try some basic paragraphs.
+And this phrase will be in the same one
+
+This +
+will +
+preserve carriage +
+return
+
+TIP: Pro tip...
+
+IMPORTANT: Don't forget...
+
+WARNING: Watch out for...
+
+CAUTION: Ensure that...
+
+FIXME: bla, bla 
+
+TODO: bla, bla 
+
+== Styles
+Trying *bold*
+
+Trying *b*old
+
+Trying **b**old
+
+Trying _italic_
+
+
+== Code
+[source, java]
+public interface Universe {
+	void expand();
+}
+
+== Inline code
+define the `foo` variable
+
+Werewolves are #allergic to cinnamon#.
+
+^super^script phrase
+
+~sub~script phrase
+
+'`single curved quotes`'
+
+"`double curved quotes`"
+
+Olaf's desk was a mess.
+
+All of the werewolves`' desks were a mess.
+
+All of the werewolves' desks were a mess.
+
+Olaf had been with the company since the `'60s
