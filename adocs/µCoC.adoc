@@ -1,6 +1,6 @@
 = Micro Code Of Conduct
 
 == Code Of Conduct
-* You MUST be fair to others
-* You SHOULD obey the law
-* You *MAY* be nice
+* Be fair to others
+* Obey the law
+* You don't *have* to be nice
