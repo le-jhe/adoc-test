@@ -1,0 +1,6 @@
+= Micro Code Of Conduct
+
+== Code Of Conduct
+* Be fair to others
+* Obey the law
+* You don't *have* to be nice
