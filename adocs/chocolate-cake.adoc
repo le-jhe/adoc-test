@@ -1,0 +1,32 @@
+= chocolate cake
+:toc:
+:toclevels: 4
+:numbered:
+
+== constraints
+* no eggs
+
+== First draft
+* 400g chocolate
+* 150g flour
+* 125g butter
+* 100 mL milk
+* 150g suggar
+* 1/2 pouch raising powder (chemical)
+* 100g apple marmelade
+* no chick peas
+
+== feedback
+* too much butter
+* too much suggar
+* not raising enough
+
+== new draft
+* 400g chocolate
+* 175g flour
+* 125g butter
+* 100 mL milk
+* 125g suggar
+* 1/2 pouch raising powder (chemical)
+* 100g apple marmelade
+* use chick peas instead of whipped egg white
